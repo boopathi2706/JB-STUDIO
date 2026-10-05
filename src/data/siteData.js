@@ -161,6 +161,23 @@ export const siteConfig = {
       liveDemoUrl: "https://modern-shop-6xsg.vercel.app/", // Replace with real URL
       caseStudyUrl: "https://example.com/case-study-fitness", // Replace with real URL
     },
+     {
+      id: "Mens Wear E-Commerce Platform",
+      title: "Mens Wear E-Commerce Platform",
+      category: "Web Development",
+      description: "A modern e-commerce platform for men's fashion with a focus on style and quality.",
+      features: [
+        "Product catalog with detailed descriptions and images",
+        "Shopping cart and secure checkout process",
+        "User account management and order tracking",
+        "Responsive design for seamless experience across devices",
+        "Integration with payment gateways for smooth transactions",
+      ],
+      technologies: ["React"],
+      image: "https://res.cloudinary.com/dogyqzelc/image/upload/v1791210693/Screenshot_2026-10-05_200028_b0nvu2.png",
+      liveDemoUrl: "https://mensweardemo.vercel.app/", // Replace with real URL
+      caseStudyUrl: "https://mensweardemo.vercel.app/", // Replace with real URL
+    },
   ],
 
   posters: [
